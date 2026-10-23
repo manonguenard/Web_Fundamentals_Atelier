@@ -1,10 +1,10 @@
 # 📒 Mon carnet de bord
 
-**Nom :** 
+**Nom :** guenard
 
-**Prénom :** 
+**Prénom :** manon
 
-**Adresse de mon site :** https://______.pythonanywhere.com
+**Adresse de mon site :** https://manon2031.pythonanywhere.com
 
 > Modifiez ce fichier directement sur GitHub (icône crayon ✏️) pour répondre aux questions de chaque exercice.
 > Écrivez avec vos propres mots : une réponse courte et juste vaut mieux qu'un long copier-coller ! 🙂
@@ -15,11 +15,11 @@
 
 1. Où se trouve physiquement le code qui fabrique votre page : sur votre ordinateur, sur GitHub ou sur PythonAnywhere ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ sur GitHub
 
 2. Pourquoi votre voisin(e) peut-il voir votre site, alors que vous n'avez rien installé sur son ordinateur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ car le site est en public
 
 ---
 
@@ -27,7 +27,7 @@
 
 1. Dans l'URL `https://www.google.com/maps`, quel est le nom de domaine ? Quel est le chemin ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ google.com
 
 2. Que veut dire le message *Not Found* ? Qui l'a envoyé : votre navigateur ou le serveur ?
 
@@ -35,7 +35,7 @@
 
 3. Que se passe-t-il si deux fonctions portent le même nom dans `flask_app.py` ? (Indice : essayez, puis lisez l'Error log.)
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ error log
 
 ---
 
